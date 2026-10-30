@@ -79,17 +79,6 @@ Unauthenticated requests to the GitHub API are limited to 60 requests per hour p
 License
 MIT
 
-text
 
----
 
-### Push the README to GitHub
-
-After saving `README.md` in your project folder, run:
-
-```powershell
-git add README.md
-git commit -m "Add README"
-git push
-```bash
-node -v
+-
